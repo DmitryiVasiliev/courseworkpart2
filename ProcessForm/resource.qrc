@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>agt_reload_6441.png</file>
+        <file>document_graph_8857.png</file>
+        <file>statistics.png</file>
+        <file>repeat.ico</file>
+    </qresource>
+</RCC>
